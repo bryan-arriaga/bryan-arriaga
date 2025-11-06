@@ -1,5 +1,5 @@
 <h1 align="center">Nice to meet you 👋, I'm Bryan lets get in contact!</h1>
-<h3 align="center">I'm a Front-End Software Developer 👾</h3>
+<h3 align="center">I'm a Full Stack Software Engineer 👾</h3>
 
 
 📫 How to reach me: **arriagabryan@gmail.com**
